@@ -2,5 +2,10 @@
   "name": "browser",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "css": "^3.0.0",
+    "express": "^4.17.3",
+    "htmlparser2": "^7.2.0"
+  }
 }
